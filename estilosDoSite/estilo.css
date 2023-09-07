@@ -3,3 +3,17 @@ h1 {
     font-size: large;
     color:black
 }
+
+p.pBlue {
+    color:darkblue;
+    text-decoration: underline;
+}
+
+p.pGreen {
+    color: darkgreen;
+    text-decoration: underline;
+}
+
+h2 {
+    color:darkgreen;
+}
